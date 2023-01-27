@@ -2,7 +2,7 @@
 
 I'm Francesco Pallotta, I'm a master student in Computer Science and Engineering from Politecnico di Milano.
 
-I am a tech enthusiast & an open-source advocate, and I'm also passionate about cybersecurity topics, as well as linux systems and self hosting. Feel free to contact me on LinkedIn!
+I am a tech enthusiast & an open-source advocate, and I'm also passionate about cybersecurity topics, as well as linux systems and self hosting. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/francesco-pallotta-60a831194/)!
 
 ## ⚡ Technologies
 
