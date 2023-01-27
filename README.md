@@ -1,8 +1,8 @@
 ## Hello there <img src="https://raw.githubusercontent.com/francesco-plt/francesco-plt/master/wave.gif" width="30">
 
-I'm Francesco Pallotta, I'm a master student in Computer Science and Engineering from Politecnico di Milano.
+My name is Francesco Pallotta, and I am a master student in Computer Science and Engineering from Politecnico di Milano.
 
-I am a tech enthusiast & an open-source advocate, and I'm also passionate about cybersecurity topics, as well as linux systems and self hosting. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/francesco-pallotta-60a831194/)!
+I consider myself a tech enthusiast & an open-source advocate, and I'm also passionate about cybersecurity topics, as well as linux systems and self hosting. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/francesco-pallotta-60a831194/)!
 
 ## ⚡ Technologies
 
@@ -17,7 +17,7 @@ I am a tech enthusiast & an open-source advocate, and I'm also passionate about 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francesco-plt&hide=stars&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact&theme=transparent&hide_border=true)
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
