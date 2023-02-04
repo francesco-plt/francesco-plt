@@ -17,7 +17,7 @@ I consider myself a tech enthusiast & an open-source advocate, and I'm also pass
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francesco-plt&hide=stars&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-plt&hide=TeX&layout=compact&theme=transparent&hide_border=true)
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
