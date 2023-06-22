@@ -30,11 +30,12 @@ I consider myself a tech enthusiast & an open-source advocate, and I'm also pass
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francesco-plt&hide=stars&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-plt&hide=TeX&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-plt&hide=TeX&layout=compact&theme=transparent&hide_border=true&exclude_repo=computer-graphics)
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
 
 <!--
 **francesco-plt/francesco-plt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
