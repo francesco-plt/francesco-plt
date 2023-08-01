@@ -2,9 +2,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francesco-plt&hide=stars&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-plt&hide=TeX&layout=compact&theme=transparent&hide_border=true&exclude_repo=computer-graphics)
 
-<!--
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
--->
+![profile views](https://visitor-badge.laobi.icu/badge?page_id=francesco-plt.visitor-badge)
 
 <!--
 **francesco-plt/francesco-plt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
